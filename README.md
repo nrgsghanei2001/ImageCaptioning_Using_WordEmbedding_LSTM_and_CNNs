@@ -22,7 +22,7 @@ The model integrates CNNs for image feature extraction, embeddings for text proc
 
 ## Dataset
 
-- **Training Data**: The model was trained using a dataset comprising images and their corresponding captions. Each image is associated with multiple captions, providing diverse descriptive information.
+- **Training Data**: The model was trained using a dataset (flickr8k) comprising images and their corresponding captions. Each image is associated with multiple captions, providing diverse descriptive information.
 - **Data Processing**: 
   - The images were preprocessed to a uniform size.
   - Captions were tokenized, padded, and indexed.
